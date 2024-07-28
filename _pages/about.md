@@ -36,7 +36,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 论文
 -	Zuo, Z., Zhang, J., Jin, Y. (2024). The Role of Science and Technology Innovation Competition in Talent Cultivation and Development. In: Hong, W., Kanaparan, G. (eds) Computer Science and Education. Educational Digitalization. ICCSE 2023. Communications in Computer and Information Science, vol 2025. Springer, Singapore. https://doi.org/10.1007/978-981-97-0737-9_7
 
 
@@ -44,7 +44,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 奖项
 - *2021.09* 全国大学生数学建模竞赛江苏赛区二等奖 
 - *2022* 人民奖学金学科竞赛奖  
 - *2023* 人民奖学金一等奖 
