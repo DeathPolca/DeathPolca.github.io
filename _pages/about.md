@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2023.09 - 2026.06*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc.svg" width="23pt"></a> 中国科学技术大学 电子工程与信息科学系, 安徽合肥, 推免学硕 
+- *2023.09 - *, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc.svg" width="23pt"></a> 中国科学技术大学 电子工程与信息科学系, 安徽合肥, 推免学硕 
 - *2019.09 - 2023.06*, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.svg" width="23pt"></a> 南京大学 人工智能学院, 江苏南京, 本科
  
 <span class='anchor' id='-lwzl'></span>
