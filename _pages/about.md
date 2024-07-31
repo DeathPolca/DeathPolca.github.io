@@ -17,12 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我目前于中国科学技术大学 6系 研究生在读，我的导师是刘东教授。本科毕业于南京大学人工智能学院。
+我目前于中国科学技术大学 6系 研究生在读，导师是刘东教授。本科毕业于南京大学人工智能学院。
  <!-- <a href='https://scholar.google.com/citations?user=79nbT9AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 我的研究领域包括：
 - 端到端视频编码
-- 机器学习
 - 深度学习
 
   
@@ -31,8 +30,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- 2023.09 - 至今, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc.svg" width="23pt"></a> 中国科学技术大学 电子工程与信息科学系, 安徽合肥, 推免学硕 
-- 2019.09 - 2023.06, <a href="https://www.nju.edu.cn/"><img class="svg" src="/images/nju.svg" width="23pt"></a> 南京大学 人工智能学院, 江苏南京, 本科
+- 2023.09 - 至今, 中国科学技术大学 电子工程与信息科学系, 安徽合肥, 推免学硕 
+- 2019.09 - 2023.06, <南京大学 人工智能学院, 江苏南京, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
