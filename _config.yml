@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "左之睿"
+title                    : "zzr"
 description              : "iVCLab"
 repository               : "DeathPolca/DeathPolca.github.io"
 google_scholar_stats_use_cdn : False
@@ -21,7 +21,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # Site Author
 author:
-  name             : "zzr"
+  name             : "左之睿"
   avatar           : "images/Porca_square.jpg"
   bio              : "中国科学技术大学"
   location         : "安徽 合肥"
