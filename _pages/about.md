@@ -53,8 +53,8 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 标准
-- *2023.8*, 1857.11，M407提案
-- *2023.10*, 《AVS 端到端智能编码探索平台算法描述文档》撰写
+- *2023.8* 1857.11，M407提案
+- *2023.10* 《AVS端到端智能编码探索平台算法描述文档》
 
 <!-- <span class='anchor' id='-gzsx'></span>
 
