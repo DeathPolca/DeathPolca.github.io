@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
@@ -49,14 +49,13 @@ redirect_from:
 - *2023* 人民奖学金一等奖 
 - *2023* 硕士研究生一等学业奖学金   
 
-<!-- <span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+# 🏛️ 标准
+- *2023.8*, 1857.11，M407提案
+- *2023.10*, 《AVS 端到端智能编码探索平台算法描述文档》撰写
 
-<span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
