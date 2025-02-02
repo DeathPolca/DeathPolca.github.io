@@ -36,8 +36,8 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
--	Zuo, Z., Zhang, J., Jin, Y. (2024). The Role of Science and Technology Innovation Competition in Talent Cultivation and Development. In: Hong, W., Kanaparan, G. (eds) Computer Science and Education. Educational Digitalization. ICCSE 2023. Communications in Computer and Information Science, vol 2025. Springer, Singapore. https://doi.org/10.1007/978-981-97-0737-9_7
-
+-	Zuo Z, Zhang J, Jin Y. The Role of Science and Technology Innovation Competition in Talent Cultivation and Development[C]//International Conference on Computer Science and Education. Singapore: Springer Nature Singapore, 2023: 62-72.
+- Zuo Z, Liao J, Song X, et al. Frame Level Content Adaptive λ for Neural Video Compression[C]//2024 IEEE International Conference on Visual Communications and Image Processing (VCIP). IEEE, 2024: 1-5.
 
 
 
