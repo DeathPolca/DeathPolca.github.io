@@ -53,8 +53,9 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 标准
-- *2023.08* 1857.11，M407提案
+- *2023.08* M407
 - *2023.10* 《AVS端到端智能编码探索平台算法描述文档》
+- *2025.03* M8842
 
 <!-- <span class='anchor' id='-gzsx'></span>
 
