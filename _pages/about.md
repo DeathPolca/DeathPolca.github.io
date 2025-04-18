@@ -38,7 +38,7 @@ redirect_from:
 # 📝 论文
 -	Zuo Z, Zhang J, Jin Y. The Role of Science and Technology Innovation Competition in Talent Cultivation and Development[C]//International Conference on Computer Science and Education. Singapore: Springer Nature Singapore, 2023: 62-72.
 - Zuo Z, Liao J, Song X, et al. Frame Level Content Adaptive λ for Neural Video Compression[C]//2024 IEEE International Conference on Visual Communications and Image Processing (VCIP). IEEE, 2024: 1-5.
-
+**Note: In Fig.1, the arrow from current frame to Context Generator is wrong. The correct version is from buffer to Context Generator.**
 
 
 <span class='anchor' id='-ryjx'></span>
