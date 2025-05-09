@@ -58,5 +58,5 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 实习
 - 2025.05 - 至今, 腾讯科技（上海）有限公司, 多媒体实验室，上海
