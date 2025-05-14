@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "zzr"
-description              : "iVCLab"
+description              : 
 repository               : "DeathPolca/DeathPolca.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 author:
   name             : "左之睿"
   avatar           : "images/Porca_square.jpg"
-  bio              : "中国科学技术大学"
+  bio              : 
   location         : 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
