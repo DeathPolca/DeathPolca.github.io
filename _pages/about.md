@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-目前于中国科学技术大学6系研究生在读，导师是刘东教授。本科毕业于南京大学人工智能学院。
+目前于中国科学技术大学6系研究生在读，导师是刘东教授。
  <!-- <a href='https://scholar.google.com/citations?user=79nbT9AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 我的研究领域包括：
