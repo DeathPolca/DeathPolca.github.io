@@ -38,6 +38,8 @@ redirect_from:
 # 📝 论文
 -	Zuo Z, Zhang J, Jin Y. The Role of Science and Technology Innovation Competition in Talent Cultivation and Development[C]//International Conference on Computer Science and Education. Singapore: Springer Nature Singapore, 2023: 62-72.
 - Z. Zuo, J. Liao, X. Song, Z. Liu, H. Zheng and D. Liu, "Frame Level Content Adaptive λ for Neural Video Compression," 2024 IEEE International Conference on Visual Communications and Image Processing (VCIP), Tokyo, Japan, 2024, pp. 1-5, doi: 10.1109/VCIP63160.2024.10849937. (**Note: In Fig.1, the arrow from current frame to Context Generator is wrong. The correct version is from buffer to Context Generator. And the hierarchical weights in the implementation details were mistakenly written as [0.9,1.2,0.5,0.9]. The correct setting is [0.5,1.2,0.5,0.9], which is consistent with the actual implementation. Both mistakes do not influence the reported results.**)
+- Sheng, X., Liang, X., Tang, C., Zuo, Z., Bian, Y., Xie, Y., ... & Liu, D. (2026). Recent Advances of End-to-End Video Coding Technologies for AVS Standard Development. arXiv preprint arXiv:2602.00483.
+- Z. Zuo, Z. Li, C. Tang, Y. Bian, L. Li and D. Liu, "Neural Video Compression with Intra-Guided Context Modulation," Accepted to 2026 IEEE International Conference on Multimedia and Expo (ICME 2026).
 
 
 <span class='anchor' id='-ryjx'></span>
